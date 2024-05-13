@@ -1,3 +1,8 @@
+<h1>
+  Hello Guys!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 I'm developer from Thailand, I am 14 years old and My name is new :fire:
 
 - Roblox Developer 🎮
