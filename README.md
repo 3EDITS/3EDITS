@@ -31,10 +31,16 @@ I'm developer from Thailand, I am 14 years old and My name is new :fire:
   </a>
 </p>
 
+<div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/3EDITS/3EDITS/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
 :fire: My Stats :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=3EDITS&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="center">
     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=3EDITS&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
