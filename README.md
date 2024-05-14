@@ -28,7 +28,7 @@ I'm developer from Thailand, I am 14 years old and My name is new :fire:
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,lua,php,discord" />
+    <img src="https://skillicons.dev/icons?i=git,cs,lua,php,c++,line,api,discord" />
   </a>
 </p>
 
