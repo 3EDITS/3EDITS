@@ -23,7 +23,7 @@ I'm developer from Thailand, I am 14 years old and My name is new :fire:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-    <br/>
+    <br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql,c" /><br>
 </div>
 <p align="center">
