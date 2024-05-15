@@ -17,7 +17,7 @@ I'm developer from Thailand, I am 14 years old and My name is new :fire:
 - Roblox Developer 🎮
 - Web Developer 🌐
 - Game Development 🎮
-- Other...
+- Other development...
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
