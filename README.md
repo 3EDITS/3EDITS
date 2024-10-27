@@ -24,11 +24,11 @@ I'm developer from Thailand, I am 15 years old and My name is new :fire:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql,c,react,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,nodejs,react,nextjs,tailwind,mysql" /><br>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,lua,php,discord" />
+    <img src="https://skillicons.dev/icons?i=git,lua,php,discord" />
   </a>
 </p>
 
