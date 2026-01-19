@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm developer from Thailand, I am 15 years old and My name is new :fire:
+I'm developer from Thailand, I am 16 years old and My name is new :fire:
 
 - Roblox Developer 🎮
 - Web Developer 🌐
